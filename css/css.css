@@ -1,0 +1,38 @@
+
+
+
+.caja_1{
+    height: 300px;
+    margin:50px;
+    width: 200px;
+    padding: 200px 300px 250px 40px;
+    background-color: orange;
+    border-radius: 10%
+    
+    
+}
+.caja_2{
+    width: 200px;
+    height: 200px;
+    margin: 0px 350px 50px  ;
+    padding:45px 10px 45px 10px;
+    width: 650px;
+    background-color: orange;
+    border-radius: 10% 
+
+    
+}
+.caja_3{
+    height: 515px;
+    margin: 0px 200px 0px ;
+    width: 550px;
+    background-color: orange;
+    border-radius: 10%
+}
+.caja_4{
+     height: 100px;
+    margin: 30px 500px 70px ;
+    width: 550px;
+    background-color: orange;
+    border-radius: 19%
+}
