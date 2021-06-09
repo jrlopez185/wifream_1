@@ -1,38 +1,46 @@
-
-
-
+/***************************************************
+* UNIDADES DE MEDIDA RELATIVAS
+*
+*EN ESTAS MEDIDA SE ESTABLECE CON RELACION AL font-size mas cercano
+*
+*REM
+*esta medida se establece con relacion al font-size del html
+****************************************************/
+html{
+    font-size: 62.5%;
+}
 .caja_1{
-    height: 300px;
-    margin:50px;
-    width: 200px;
-    padding: 200px 300px 250px 40px;
+    height: 30rem;
+    margin:5rem;
+    width: 20rem;
+    padding: 20rem 30rem 25rem 4rem;
     background-color: orange;
     border-radius: 10%
     
     
 }
 .caja_2{
-    width: 200px;
-    height: 200px;
-    margin: 0px 350px 50px  ;
-    padding:45px 10px 45px 10px;
-    width: 650px;
+    width: 20rem;
+    height: 20rem;
+    margin: 0rem 35rem 5rem;
+    padding:4.5rem 1rem 4.5rem 1rem;
+    width: 65rem;
     background-color: orange;
     border-radius: 10% 
 
     
 }
 .caja_3{
-    height: 515px;
-    margin: 0px 200px 0px ;
-    width: 550px;
+    height: 51.5rem;
+    margin: 0rem 20rem 0rem ;
+    width: 55rem;
     background-color: orange;
     border-radius: 10%
 }
 .caja_4{
-     height: 100px;
-    margin: 30px 500px 70px ;
-    width: 550px;
+     height: 10rem;
+    margin: 3rem 50rem 7rem ;
+    width: 55rem;
     background-color: orange;
     border-radius: 19%
 }
